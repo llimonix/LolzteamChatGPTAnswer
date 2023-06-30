@@ -2,7 +2,7 @@
 Automatic response via CHATGPT in new topics in any section of the forum
 
 Guide to work:
-1. Download and install python from the off site [python.org](python.org)
+1. Download and install python from the off site [python.org](https://www.python.org/)
 2. Download the archive and unzip it
 3. Run the **install_pip.bat**, it will install the necessary modules
 4. Open **test.py** in any convenient way for editing and editing forum_id and token_lolz on their own.
