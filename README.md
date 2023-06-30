@@ -16,7 +16,7 @@ You need to create it on this page: API
 3. Choose all the items or you can remove the market
 4. A page opens with the created token, copy it and paste it into the script
 
-![image](https://github.com/llimonix/LolzteamChatGPTAnswer/assets/58168234/32f01d45-ab24-4ad9-abd7-58e1cb8c9b34)
+![image](https://github.com/llimonix/LolzteamChatGPTAnswer/assets/58168234/8005ce9e-44e3-4b2b-a427-65e2c080cc5e)
 
 Example of script operation:
 
