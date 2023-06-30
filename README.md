@@ -22,4 +22,4 @@ Example of script operation:
 
 ![image](https://github.com/llimonix/LolzteamChatGPTAnswer/assets/58168234/f02c8efc-1be7-464a-8485-169f8e01d6aa)
 
-Download: [Click](https://github.com/llimonix/LolzteamChatGPTAnswer/releases/tag/LolzteamChatGPTAnswer)
+Download: [Click](https://github.com/llimonix/LolzteamChatGPTAnswer/releases/tag/v1.1)
