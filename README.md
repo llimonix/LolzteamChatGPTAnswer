@@ -1,4 +1,4 @@
-# Lolzteam ChatGPT Answer Python Script [![Latest Release](https://badgen.net/github/release/llimonix/LolzteamChatGPTAnswer)](https://github.com/llimonix/LolzteamChatGPTAnswer/releases/latest)
+# Lolzteam ChatGPT Answer Python Script [![Latest Release](https://img.shields.io/github/v/release/llimonix/LolzteamChatGPTAnswer)](https://github.com/llimonix/LolzteamChatGPTAnswer/releases/latest) ![GitHub watchers](https://img.shields.io/github/watchers/llimonix/LolzteamChatGPTAnswer)
 Automatic response via CHATGPT in new topics in any section of the forum
 
 Guide to work:
