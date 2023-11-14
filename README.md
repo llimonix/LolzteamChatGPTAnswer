@@ -4,9 +4,9 @@
 ## Guide to work: ⚙️
 1. Download and install python from the off site [python.org](https://www.python.org/)
 2. Download the archive and unzip it
-3. Run the **install_pip.bat**, it will install the necessary modules
-4. Open **test.py** in any convenient way for editing and editing forum_id and token_lolz on their own.
-5. Close the editor and run **start.bat**
+3. Install modules from the file **req.txt**
+4. Open **LZTChatGPT.py** in any convenient way for editing and editing **forum_id** and **token_lolz** on their own.
+5. Close the editor and start the console and write py **LZTChatGPT.py**
 6. Voila, everything works (probably if everything is done correctly. I will not help to understand everything, I have painted everything)
 
 ------------------------
