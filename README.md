@@ -28,4 +28,4 @@ Example of script operation:
 
 ------------------------
 
-Download: [Click](https://github.com/llimonix/LolzteamChatGPTAnswer/releases/latest)
+Download: [Click](https://github.com/llimonix/LolzteamChatGPTAnswer/archive/refs/heads/main.zip)
